@@ -6,6 +6,7 @@
 
 > As you know, CustomNPC+ is a direct continuation of the Official CustomNPC, so in this file will only be *new methods added to customNPC+*, methods already existing in the official version of the mod should be checked in [official documentation](http://www.kodevelopment.nl/customnpcs/api/1.7.10/)
 
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pQqRTvFeJ5)
 ## 🤝 Contributors
 
 We thank the following people who contributed to this project:
@@ -38,4 +39,3 @@ We thank the following people who contributed to this project:
     </td>
   </tr>
 </table>
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pQqRTvFeJ5)
