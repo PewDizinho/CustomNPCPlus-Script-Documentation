@@ -4,12 +4,11 @@
 
 ### CustomNPC Official Documentation
 
-> Como vocês sabem, o CustomNPC+ é uma continuação direta do CustomNPC Oficial, então nesse arquivo irá estar somente *novos métodos adicionados ao customNPC+*, métodos já existentes na versão oficial do mod devem ser verificados na [documentação oficial](http://www.kodevelopment.nl/customnpcs/api/1.7.10/) 
+> As you know, CustomNPC+ is a direct continuation of the Official CustomNPC, so in this file will only be *new methods added to customNPC+*, methods already existing in the official version of the mod should be checked in [official documentation](http://www .kodevelopment.nl/customnpcs/api/1.7.10/)
 
+## 🤝 Contributors
 
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
