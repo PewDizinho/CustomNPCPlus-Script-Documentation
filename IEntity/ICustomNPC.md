@@ -1,6 +1,12 @@
 ## ICustomNPC
 
+<br>
 
+**extends [ScriptLivingBase](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/IEntity/IEntityLivingBase.md)**
+
+<br>
+
+<br>
 
 Modifier and Type | Method | Description
 ------- | ------------- | -------------------------------------------------------------
