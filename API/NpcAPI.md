@@ -1,6 +1,16 @@
 ## NpcAPI
 
 
+#### Usage     
+<br>
+
+<pre>
+API.executeCommand(world, "gamemode 0 " + player.getName());
+</pre>
+
+<br>
+<br>
+
 
 Modifier and Type | Method | Description
 ------- | ------------- | -------------------------------------------------------------
