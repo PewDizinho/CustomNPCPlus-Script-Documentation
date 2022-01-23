@@ -15,7 +15,7 @@ void | void setHairCode(String hairCode) | Set player's hair code
 void | setExtraCode(String extraCode) | Set a custom extra data on player's nbt
 void | setForm(byte form) | Set player's form
 void | setForm2(byte form2) | Set player's form2
-void | setPowerPoints(int points) | Set player's power points
+void | setPowerPoints(int points) | Sets the player's Arcosian power reserve
 void | setAuraColor(int color) | Set player's aura color
 void | setFormLevel(int level) | Set player's form level
 void | setSkills(String skills) | Set player's skills
@@ -30,7 +30,7 @@ int | getPowerType() | Returns player's power type
 int | getRace() | Returns player's race
 int | getFormLevel() | Returns player form Level
 int | getAuraColor() | Returns player's aura color
-int | getPowerPoints() | Returns player's power points
+int | getPowerPoints() | Returns player's Arcosian power reserve
 int | getTP() | Returns player's Training Points
 int | getKi() | Returns player's ki
 int | getStamina() | Returns player's stamina
