@@ -38,7 +38,7 @@ We thank the following people who contributed to this project:
       <a href="#">
         <img src="https://avatars3.githubusercontent.com/u/55335712" width="100px;" alt="Foto do PewDizinho"/><br>
         <sub>
-          <b>PewDizinho</b>
+         <a href="https://github.com/PewDizinho">PewDizinho</a>
         </sub>
       </a>
     </td>
