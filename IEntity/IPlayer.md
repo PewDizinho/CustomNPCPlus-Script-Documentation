@@ -1,6 +1,6 @@
 ## IPlayer
 
-
+<img src="exemplo-image.png" alt="exemplo imagem">
 
 Modifier and Type | Method | Description
 ------- | ------------- | -------------------------------------------------------------
