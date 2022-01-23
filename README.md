@@ -38,3 +38,4 @@ We thank the following people who contributed to this project:
     </td>
   </tr>
 </table>
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pQqRTvFeJ5)
