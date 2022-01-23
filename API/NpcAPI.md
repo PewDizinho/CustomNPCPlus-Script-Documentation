@@ -14,7 +14,7 @@ API.executeCommand(world, "gamemode 0 " + player.getName());
 
 Modifier and Type | Method | Description
 ------- | ------------- | -------------------------------------------------------------
-[ICustomGui](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/API/ICustomGui.md) | createCustomGui(int id, int width, int height, boolean pauseGame) | Create a CustomGUI object
+[ICustomGui](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/tree/main/CustomGui) | createCustomGui(int id, int width, int height, boolean pauseGame) | Create a CustomGUI object
 [ICustomNpc](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/IEntity/ICustomNPC.md) | createNPC(new.minecraft.world.World world) | Doesnt spawn the npc in the world, just create a NPC object
 [IEntity](http://www.kodevelopment.nl/customnpcs/api/1.7.10/) | getIEntity(Entity entity) | Returns a entity
 IBlock | getIBlock(new.minecraft.world.World world, int x, int y, int z2) | Returns a IBlock
