@@ -29,11 +29,6 @@ boolean | hasTexture() | Returns whenever the button has a texture or not
 [IButton](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiButton.md) | setLabel(String label) | Set button label text
 [IButton](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiButton.md) | setTexture(String texture) | Set button's texture
 [IButton](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiButton.md) | setTextureOffset(int textureX, int textureY) | Set button's texture Offset
-[IButton](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiButton.md) | 
-[IButton](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiButton.md) | 
-[IButton](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiButton.md) | 
-[IButton](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiButton.md) | 
-[IButton](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiButton.md) | 
 [ICustomGuiComponent](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiComponent.md) | setID(int id) | Set button ID
 [ICustomGuiComponent](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiComponent.md) | fromNBT(NBTTagCompound nbt) | Create a button from NBT
 NBTTagCompound | toNBT() | Returns button's nbt
