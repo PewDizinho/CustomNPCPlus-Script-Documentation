@@ -1,6 +1,12 @@
 ## IDBCPlayer
 
+### ♦️ Atention!
+> These methods are NBT simplifications! Any misplaced value placed here could result in the player's date or even the world's date being corrupted! Don't use it if you don't have experience, test it on singleplayer worlds before putting it on your server!
 
+### ? Reference
+* Stat = (str - dex - con - wil - mnd - spi)
+* Race = 0: Human, 1: Saiyan, 2: Half-Saiyan, 3: Namekian, 4: Arcosian
+* Class = 0: Martial Artist, 1: Spiritualist, 2: Warrior
 
 Modifier and Type | Method | Description
 ------- | ------------- | -------------------------------------------------------------
@@ -43,4 +49,3 @@ byte | getForm() | Returns player's form
 byte | getRelease() | Returns player's release power
 boolean | isBlocking() | Returns true if player is blocking
 
-* stat = (str - dex - con - wil - mnd - spi)
