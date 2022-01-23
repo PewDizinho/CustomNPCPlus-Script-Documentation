@@ -48,4 +48,4 @@ We thank the following people who contributed to this project:
 
 [![Discord Badge](https://img.shields.io/badge/CustomNPC+-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pQqRTvFeJ5)
 [![Discord Badge](https://img.shields.io/badge/CustomNPC-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rgeWsmQaKa)
-[![Download CustomNPC+](https://img.shields.io/badge/Download--CustomNPCPlus!-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/customnpc-plus)
+[![Download CustomNPC+](https://img.shields.io/badge/Download⠀CustomNPC⠀Plus!-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/customnpc-plus)
