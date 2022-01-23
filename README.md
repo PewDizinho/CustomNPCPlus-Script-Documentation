@@ -22,7 +22,7 @@ We thank the following people who contributed to this project:
       <a href="#">
         <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/a93b2131-2ffc-43ce-85bf-1d6e7e36aca9-profile_image-300x300.png" width="100px;" alt="Foto do Pew no GitHub"/><br>
         <sub>
-          <b>KAMKEEL</b>
+    <a href="https://github.com/KAMKEEL">KAMKEEL</a>
         </sub>
       </a>
     </td>
@@ -30,7 +30,7 @@ We thank the following people who contributed to this project:
       <a href="#">
         <img src="https://images-ext-2.discordapp.net/external/1p2KVZO3Ps_WxOU8IqJxzUPHY2CLTIN2RdguIgBBHXI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/193868735386353664/fbc9fe6decb0c5275ff450af7a2c4de4.png" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
-          <b>Louis XIV</b>
+          <a href="https://github.com/c0508383">Louis XIV</a>
         </sub>
       </a>
     </td>
