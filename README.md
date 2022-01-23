@@ -8,6 +8,9 @@
  
  [![Devlog](https://img.shields.io/badge/OfficialDocumentation-999999?style=for-the-badge&logo=Files&logoColor=white)](http://www.kodevelopment.nl/customnpcs/api/1.7.10/)
 
+## CustomNPC+ Repository
+
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=KAMKEEL&repo=CustomNPC-Plus)](https://github.com/KAMKEEL/CustomNPC-Plus)  
   
 ## 🤝 Contributors
 
