@@ -3,6 +3,7 @@
 <br>
 
 **extends [ScriptLivingBase](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/IEntity/IEntityLivingBase.md)**
+<br>
 **ICustomNPC entity on [official documentation](http://www.kodevelopment.nl/customnpcs/api/1.7.10/noppes/npcs/scripted/ScriptNpc.html)
 <br>
 
