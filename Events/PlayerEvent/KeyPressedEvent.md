@@ -10,7 +10,7 @@
 
 Modifier and Type | Method | Description
 ------- | ------------- | -------------------------------------------------------------
-int | key | Returns **key ID**
+int | key | Returns **[key ID](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/Events/PlayerEvent/KeyPressedEvent.md#key-ids)**
 boolean | isCtrlPressed | Returns true if player has ctrl key pressed when pressed another key
 boolean | isAltPressed | Returns true if player has alt key pressed when pressed another key
 boolean | isShiftPressed | Returns true if player has shift key pressed when pressed another key
@@ -19,7 +19,8 @@ boolean | keyDown | A flag saying whether the even occured from key being presse
 
 
 
-
+<br>
+<br>
 
 ## Key ID's:
         0: "\ ",
