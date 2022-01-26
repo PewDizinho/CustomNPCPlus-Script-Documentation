@@ -23,7 +23,7 @@ boolean | keyDown | A flag saying whether the even occured from key being presse
 <br>
 
 ## Key ID's:
-        0: "\ ",
+        0: "\",
         1: "esc",
         2: 1,
         3: 2,
