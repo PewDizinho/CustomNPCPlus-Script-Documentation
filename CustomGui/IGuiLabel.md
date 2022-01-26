@@ -20,7 +20,8 @@ float | getScale() | Get label's scale
 String | getText() | Get label's text
 [IGuiLabel](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiLabel.md) | setColor(int color) | Set label's color
 [IGuiLabel](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiLabel.md) | setScale(float scale) Set label's scale
-
+[IGuiLabel](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiLabel.md) | setSize(int width, int height) | Set label's size
+[IGuiLabel](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/CustomGui/IGuiLabel.md) | setText(String label) | Set label's text
 
 
 
