@@ -4,9 +4,8 @@
 
 ### CustomNPC Official Documentation
 
-> As you know, CustomNPC+ is a direct continuation of the Official CustomNPC, so in this file will only be *new methods added to customNPC+*, methods already existing in the official version of the mod should be checked on the 
+> As you know, CustomNPC+ is a direct continuation of the [Official CustomNPC](https://www.curseforge.com/minecraft/mc-mods/custom-npcs), so in this file will only be *new methods added to customNPC+*, methods already existing in the official version of the mod should be checked on the [Official Documentation](http://www.kodevelopment.nl/customnpcs/api/1.7.10/)
  
- [![Devlog](https://img.shields.io/badge/OfficialDocumentation-999999?style=for-the-badge&logo=Files&logoColor=white)](http://www.kodevelopment.nl/customnpcs/api/1.7.10/)
 
 ## CustomNPC+ Repository
 
