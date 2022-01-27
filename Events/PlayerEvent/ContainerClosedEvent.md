@@ -10,4 +10,4 @@
 
 Modifier and Type | Method | Description
 ------- | ------------- | -------------------------------------------------------------
-IContainer | container | Container closed
+IContainer | container | Container that was closed
