@@ -2,7 +2,7 @@
 
 
 #### Trigger
-> Whenever a player drop a item
+> Whenever a player drop itens *on death*
 <br>
 <br>
 
