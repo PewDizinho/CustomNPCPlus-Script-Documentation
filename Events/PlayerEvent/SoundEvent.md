@@ -3,7 +3,9 @@
 
 #### Trigger
 > Whenever a player makes a sound
-<br>
+
+[@Cancelable](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/Events/CancelableEvent.md)
+
 <br>
 
 
