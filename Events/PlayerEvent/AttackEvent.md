@@ -3,9 +3,10 @@
 
 #### Trigger
 > Whenever a player attack
-<br>
-<br>
 
+[@Cancelable](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/Events/CancelableEvent.md)
+
+<br>
 
 
 Modifier and Type | Method | Description
