@@ -10,6 +10,6 @@
 
 Modifier and Type | Method | Description
 ------- | ------------- | -------------------------------------------------------------
-IDamageSource | damageSource | Returns the damage Source
+[IDamageSource](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/API/IDamageSource.md) | damageSource | Returns the damage Source
 IEntity | source | Returns entity source
 float | damage | Returns the damage
