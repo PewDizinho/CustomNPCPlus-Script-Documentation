@@ -3,7 +3,9 @@
 
 #### Trigger
 > Whenever a player drop itens *on death*
-<br>
+
+[@Cancelable](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/Events/CancelableEvent.md)
+
 <br>
 
 
