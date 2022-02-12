@@ -17,7 +17,7 @@ void | setStamina(int stamina) | Set player's stamina
 void | setKi(int ki) | Set player's ki
 void | setTP(int tp) | Set player's Training Points
 void | setGravity(float gravity) | Set player's gravity
-void | void setHairCode(String hairCode) | Set player's hair code
+void | setHairCode(String hairCode) | Set player's hair code
 void | setExtraCode(String extraCode) | Set a custom extra data on player's nbt
 void | setForm(byte form) | Set player's form
 void | setForm2(byte form2) | Set player's form2
