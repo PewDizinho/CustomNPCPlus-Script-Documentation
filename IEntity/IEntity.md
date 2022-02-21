@@ -1,9 +1,11 @@
 
 ## IEntity
 
+
 <br>
-<br>
-**ICustomNPC entity on [official documentation](http://www.kodevelopment.nl/customnpcs/api/1.7.10/noppes/npcs/scripted/ScriptEntity.html)**
+
+**IEntity entity on [official documentation](http://www.kodevelopment.nl/customnpcs/api/1.7.10/noppes/npcs/scripted/ScriptEntity.html)**
+
 <br>
 
 <br>
