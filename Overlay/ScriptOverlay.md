@@ -19,8 +19,8 @@ int | getWidth() | Returns gui width
 int | getHeight() | Returns gui height
 int | getPlayerInvX() | Returns player's inventory X
 int | getPlayerInvY() | Returns player's inventory Y
-Components | getComponents() | Returns a list of the custom overlay's components
-Components | getComponent(int componentID) | Gets the component with the given id from the overlay
+[Components](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/Overlay/ScriptOverlayComponent.md) | getComponents() | Returns a list of the custom overlay's components
+[Components](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/Overlay/ScriptOverlayComponent.md) | getComponent(int componentID) | Gets the component with the given id from the overlay
 void | addTexturedRect(int id, String texture, int x, int y, int width, int height) | Adds a textured rectangle component to the overlay
 void | addTexturedRect(int id, String texture, int x, int y, int width, int height, int textureX, int textureY) | Textured rectangle component with two additional texture offset parameters. The image's top-left corner in the png will be at (textureX, textureY) instead of the default (0,0)
 void | addLabel(int id, String label, int x, int y, int width, int height) | Adds a label component to the custom overlay
