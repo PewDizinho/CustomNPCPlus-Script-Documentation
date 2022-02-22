@@ -1,6 +1,10 @@
-# CustomNPC+ Script Documentation
+# CustomNPC+ (v`1.5.1-beta`) Script Documentation 
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<br>
+<br>
+[CustomNPC](https://www.curseforge.com/minecraft/mc-mods/custom-npcs) is a [Minecraft](https://minecraft.net) ([Forge 1.7.10](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.7.10.html)) mod to add customizable NPCs with dialogs, quests, roles and scripted events!
+</br>
 
 ### CustomNPC Official Documentation
 
