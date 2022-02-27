@@ -12,3 +12,11 @@ Right Edge | 5
 Bottom-Left Corner | 6 
 Bottom-Center | 7 
 Right-Left Corner | 8 
+
+## Components
+
+Constant Field | Value
+------- | ------------- 
+Textured Rectangle | 0
+Label | 1
+Line | 2
