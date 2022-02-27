@@ -13,7 +13,7 @@ int | getPosY() | Returns the components Y position
 int | getPosZ() | Returns the components Z position
 void | setID(int ID) | Sets the components ID to the given integer
 void | setPos(int X, int Y) | Sets the components X & Y positions to the given integers, and returns the updated component.
-void | setAlignment([alignment](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/edit/main/Overlay/ScriptOverlayComponent.md#alignments)) | Sets the component's alignment, based on the given integers
+void | setAlignment([alignment](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/Overlay/ScriptOverlayComponent.md#alignments)) | Sets the component's alignment, based on the given integers
 
 
 
