@@ -1,8 +1,7 @@
 
-## IScriptOverlay
+## ScriptOverlayComponent
 
-<br>
-WIP
+
 <br>
 
 Modifier and Type | Method | Description
