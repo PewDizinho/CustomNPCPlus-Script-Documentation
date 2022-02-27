@@ -3,14 +3,10 @@
 ### ♦️ Warning!
 > These methods are NBT simplifications! Any misplaced value placed here could result in the player's date or even the world's date being corrupted! Don't use it if you don't have experience, test it on singleplayer worlds before putting it on your server!
 
-### ? Reference
-* Stat = (str - dex - con - wil - mnd - spi)
-* Race = 0: Human, 1: Saiyan, 2: Half-Saiyan, 3: Namekian, 4: Arcosian
-* Class = 0: Martial Artist, 1: Spiritualist, 2: Warrior
 
 Modifier and Type | Method | Description
 ------- | ------------- | -------------------------------------------------------------
-void | setStat(String stat, int value) | Set player's stat
+void | setStat(String [stat](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/ConstantsTypes/DBCTypes.MD#attributes), int value) | Set player's stat
 void | setRelease(byte release) | Set player's release power
 void | setBody(int body) | Set player's body
 void | setStamina(int stamina) | Set player's stamina
@@ -33,7 +29,7 @@ String | getExtraCode() | Returns the custom extra data
 String | getJRMCSE() | Returns player's dbc effect
 int | getKillCount(String type) | Types: (evil -  good - neutral - all)
 int | getPowerType() | Returns player's power type
-int | getRace() | Returns player's race
+int | getRace() | Returns player's [race](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/ConstantsTypes/DBCTypes.MD#attributes)
 int | getFormLevel() | Returns player form Level
 int | getAuraColor() | Returns player's aura color
 int | getPowerPoints() | Returns player's Arcosian power reserve
@@ -43,7 +39,7 @@ int | getStamina() | Returns player's stamina
 int | getBody() | Returns player's body
 int | getStat(String stat) | Returns the player's stat
 float | getGravity() | Returns player's gravity
-byte | getDBCClass() | Returns player's dbc class
+byte | getDBCClass() | Returns player's dbc [class](https://github.com/PewDizinho/CustomNPCPlus-Script-Documentation/blob/main/ConstantsTypes/DBCTypes.MD#classes)
 byte | getForm2() | Get player's form2
 byte | getForm() | Returns player's form
 byte | getRelease() | Returns player's release power
