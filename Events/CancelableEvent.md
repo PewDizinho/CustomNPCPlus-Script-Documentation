@@ -5,7 +5,7 @@
 <br>
 
 <pre>
-event.setCancelled(true);
+event.setCanceled(true);
 </pre>
 
 <br>
@@ -15,5 +15,5 @@ event.setCancelled(true);
 
 Modifier and Type | Method | Description
 ------- | ------------- | -------------------------------------------------------------
-boolean	| isCancelled() | Returns true if the event is cancelled
-void	| setCancelled(boolean bo) | Cancel the event
+boolean	| isCanceled() | Returns true if the event is cancelled
+void	| setCanceled(boolean bo) | Cancel the event
