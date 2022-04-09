@@ -9,4 +9,4 @@
 
 Modifier and Type | Method | Description
 ------- | ------------- | -------------------------------------------------------------
-boolean | IItemStack.hasLore() | Returns true if the item has a lore
+boolean | hasLore() | Returns true if the item has a lore
