@@ -27,17 +27,14 @@ float | getRotationZRateStart() | Get Z rate start value
 void | setRotationX(float rotationX1, float rotationX2, float rotationXRate, int rotationXRateStart) | Sets rotation values about the X-axis
 void | setRotationY(float rotationY1, float rotationY2, float rotationYRate, int rotationYRateStart) | Sets rotation values about the Y-axis
 void | setRotationZ(float rotationZ1, float rotationZ2, float rotationZRate, int rotationZRateStart) | Sets rotation values about the Z-axis
-
 void | setRotationX1(float rotationX1) | Set X1 Rotation
 void | setRotationX2(float rotationX2) | Set X2 Rotation
 void | setRotationXRate(float rotationXRate) | Set X1 Rotation rate
 void | setRotationXRateStart(int rotationXRateStart) | Set X1 Rotation rate start
-
 void | setRotationY1(float rotationY1) | Set Y1 Rotation
 void | setRotationY2(float rotationY2) | Set Y2 Rotation
 void | setRotationYRate(float rotationYRate) | Set Y1 Rotation rate
 void | setRotationYRateStart(int rotationYRateStart) | Set Y1 Rotation rate start
-
 void | setRotationZ1(float rotationZ1) | Set Z1 Rotation
 void | setRotationZ2(float rotationZ2) | Set Z2 Rotation
 void | setRotationZRate(float rotationZRate) | Set Z1 Rotation rate
