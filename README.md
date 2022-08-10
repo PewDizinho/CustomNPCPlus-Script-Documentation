@@ -5,6 +5,11 @@
 <br>
 [CustomNPC](https://www.curseforge.com/minecraft/mc-mods/custom-npcs) is a [Minecraft](https://minecraft.net) ([Forge 1.7.10](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.7.10.html)) mod to add customizable NPCs with dialogs, quests, roles and scripted events!
 </br>
+### Discontinued
+
+> For versions above `1.5.3` you should look at the official [JavaDoc](https://kamkeel.github.io/CustomNPC-Plus/).
+
+> [This](https://kamkeel.github.io/CustomNPC-Plus/) documentation will **NOT** get a update
 
 ### CustomNPC Official Documentation
 
